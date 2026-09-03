@@ -1,0 +1,7 @@
+*.trr
+*.xtc
+*.log
+*.tpr
+*.edr
+__pycache__/
+*.pyc
