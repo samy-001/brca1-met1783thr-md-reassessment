@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+type: software
+title: "BRCA1 p.Met1783Thr structural and molecular dynamics reassessment: analysis scripts, structural inputs and derived results"
+authors:
+  - family-names: Adekunle
+    given-names: Samuel Adediran
+    orcid: "https://orcid.org/0009-0000-2500-1761"
+    affiliation: "University of Ilorin, Ilorin, Kwara State, Nigeria"
+    email: "adekunlesamuelsa@gmail.com"
+repository-code: "https://github.com/samy-001/brca1-met1783thr-md-reassessment"
+license: CC0-1.0
+version: "v1.0.0"
+date-released: "2026-09-28"
+keywords:
+  - BRCA1
+  - variant of uncertain significance
+  - molecular dynamics
+  - GROMACS
+  - FoldX
+  - BRCT domain
+references:
+  - type: dataset
+    title: "BRCA1 p.Met1783Thr MD Trajectories and Simulation Data"
+    authors:
+      - family-names: Adekunle
+        given-names: Samuel Adediran
+    doi: "10.5281/zenodo.22985272"
+    year: 2026
